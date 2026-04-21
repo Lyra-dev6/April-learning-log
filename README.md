@@ -6,3 +6,4 @@ This describes and shows my learning and projects all throughout April 2026
 -**April 15:** Officially signed up at Codedex to strengthen my JavaScript knowledge.
 
 -**April 16:** Completed my Calculator app project and uploaded it with my readME descriptiom
+-**April 21:** Officially finished my Study Hub project while doing 2 lessons of Codedex
